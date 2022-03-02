@@ -1,3 +1,5 @@
+![](images/cover.jpg)
+
 ### Hi there 👋
 ---
 My name is Rafael Pereira (Rafa for short). I work as a researcher and head of the spatial data science team at the Department of Regional, Urban and Environmental Studies and Policies at the [Institute for Applied Economic Research (Ipea)](https://www.ipea.gov.br/portal/index.php?option=com_content&view=frontpage&Itemid=61) in Brazil.
