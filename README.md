@@ -34,7 +34,7 @@ A lot of the work I do involves downloading, cleaning and analyzing data. In ord
 [<img src="https://www.iconsdb.com/icons/download/color/2E3949/twitter-4-32.png">](https://twitter.com/UrbanDemog)
 [<img src="https://www.iconsdb.com/icons/download/color/2E3949/linkedin-4-32.png">](https://www.linkedin.com/in/rafael-h-m-pereira/)
 [<img src="https://www.iconsdb.com/icons/download/color/2E3949/github-9-32.png">](https://github.com/rafapereirabr)
-[<img src="https://www.iconsdb.com/icons/download/color/2E3949/google-scholar-32.png">](https://scholar.google.com/citations?user=dbRivsEAAAAJ&hl=en&oi=ao)
+[<img src="https://www.iconsdb.com/icons/download/color/2E3949/graduation-cap-32.png">](https://scholar.google.com/citations?user=dbRivsEAAAAJ&hl=en&oi=ao)
 [<img src="https://www.iconsdb.com/icons/download/color/2E3949/stackoverflow-32.png">](https://stackoverflow.com/users/3588876/rafa-pereira)
 
 
