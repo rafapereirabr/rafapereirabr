@@ -18,11 +18,11 @@ My research looks broadly at how urban and transport policies shape the spatial 
 A lot of the work I do involves downloading, cleaning and analyzing data. In order to make my life and the lives of others easier, I help build a few packages along the way!
 
 - [geobr](https://github.com/ipeaGIT/geobr): Download Official Spatial Data Sets of Brazil
-- [r5r](https://github.com/ipeaGIT/r5r): Rapid realistic routing on multimodal transport networks with R5
+- [r5r](https://github.com/ipeaGIT/r5r): r5r: Rapid Realistic Routing with R5 in R
 - [aopdata](aopdata): Data from the Access to Opportunities Project
 - [gtfs2gps](https://github.com/ipeaGIT/gtfs2gps): Converting Transport Data from GTFS Format to GPS-Like Records
 - [gtfstools](https://github.com/ipeaGIT/gtfstools): General Transit Feed Specification (GTFS) Editing and Analysing Tools
-- [flightsbr](https://github.com/ipeaGIT/flightsbr): Download Flight And Airport Data from Brazil
+- [flightsbr](https://github.com/ipeaGIT/flightsbr): Download Flight and Airport Data from Brazil
 
 <img align="center" src="images/packages_logos.png" width="600">
 
