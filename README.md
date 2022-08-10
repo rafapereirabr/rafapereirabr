@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 ---
-My name is Rafael Pereira (Rafa for short). I work as a researcher and head of the spatial data science team at the Department of Regional, Urban and Environmental Studies and Policies at the [Institute for Applied Economic Research (Ipea)](https://www.ipea.gov.br/portal/index.php?option=com_content&view=frontpage&Itemid=61) in Brazil.
+My name is Rafael Pereira (Rafa for short). I work as a researcher at the Department of Regional, Urban and Environmental Studies and Policies at the [Institute for Applied Economic Research (Ipea)](https://www.ipea.gov.br/portal/index.php?option=com_content&view=frontpage&Itemid=61) in Brazil.
 
 ### Research interests :satellite:
 ---
@@ -19,9 +19,11 @@ A lot of the work I do involves downloading, cleaning and analyzing data. In ord
 
 - [geobr](https://github.com/ipeaGIT/geobr): Download Official Spatial Data Sets of Brazil
 - [r5r](https://github.com/ipeaGIT/r5r): Rapid realistic routing on multimodal transport networks with R5
+- [accessibility](https://github.com/ipeaGIT/accessibility): Transport Accessibility Measures
 - [aopdata](aopdata): Data from the Access to Opportunities Project
-- [gtfs2gps](https://github.com/ipeaGIT/gtfs2gps): Converting Transport Data from GTFS Format to GPS-Like Records
 - [gtfstools](https://github.com/ipeaGIT/gtfstools): General Transit Feed Specification (GTFS) Editing and Analysing Tools
+- [gtfs2gps](https://github.com/ipeaGIT/gtfs2gps): Converting Transport Data from GTFS Format to GPS-Like Records
+- [gtfs2emis](https://github.com/ipeaGIT/gtfs2emis): Generating estimates of public transport emissions from GTFS data
 - [flightsbr](https://github.com/ipeaGIT/flightsbr): Download Flight And Airport Data from Brazil
 
 <img align="center" src="images/packages_logos.png" width="600">
