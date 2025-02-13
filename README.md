@@ -29,6 +29,8 @@ A lot of the work I do involves downloading, cleaning and analyzing data. In ord
 
 **Brazilian data**
 - [geobr](https://github.com/ipeaGIT/geobr): Download Official Spatial Data Sets of Brazil, available in both R and Python
+- [geocodebr](https://github.com/ipeaGIT/geocodebr): Geocoding Brazilian Addresses
+- [enderecobr](https://ipeagit.github.io/enderecobr/): Brazilian Addresses Standardizer
 - [censobr](https://github.com/ipeaGIT/censobr): Download Data from Brazil’s Population Census
 - [flightsbr](https://github.com/ipeaGIT/flightsbr): Download Flight And Airport Data from Brazil
 - [Esquina do Brasil](https://github.com/rafapereirabr/bot_esquinadobrasil): Twitter bot posting Brazilian census tracts 🛰🌎 every 15 minutes
